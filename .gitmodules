@@ -1,0 +1,3 @@
+[submodule "ducor-eth"]
+	path = ducor-eth
+	url = https://github.com/DucaturFw/ducor-eth
